@@ -18,16 +18,16 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    height: 300px;
-    width: 950px;
+    height: 200px;
+    width: 750px;
     background: transparent;
     border-radius: 3px;
     box-shadow: 0px 8px 10px rgba(0, 0, 0, .5);
 }
 
 .relogio div{
-    height: 250px;
-    width: 200px;
+    height: 170px;
+    width: 150px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -41,10 +41,10 @@ body {
 
 .relogio span{
     font-weight: bolder;
-    font-size: 62px;
+    font-size: 60px;
 }
 
 .relogio span.tempo{
-    font-size: 15px;
+    font-size: 10px;
     color: #ffe53db8;
 }
